@@ -9,8 +9,6 @@ class ReverseString
     { 
         String input = "GeeksforGeeks"; 
   
-        // getBytes() method to convert string  
-        // into bytes[]. 
         byte [] strAsByteArray = input.getBytes(); 
   
         byte [] result =  
