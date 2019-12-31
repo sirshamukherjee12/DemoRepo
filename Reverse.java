@@ -9,7 +9,7 @@ class ReverseString
     { 
         String input = "GeeksforGeeks"; 
   
-        byte [] strAsByteArray = input.getBytes(); //63
+        byte [] strAsByteArray = input.getBytes(); //for 63
   
         byte [] result =  
                    new byte [strAsByteArray.length]; 
